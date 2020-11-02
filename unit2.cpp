@@ -5,7 +5,7 @@ before
 #include <iostream.h>
 #include <conio.h>
 #pragma hdrstop
-after
+aaa
 //---------------------------------------------------------------------------
 
 #pragma argsused
