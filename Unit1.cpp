@@ -1,6 +1,7 @@
 //---------------------------------------------------------------------------
 aaa
 bbb
+ccc
 #include <vcl.h>
 #include <conio.h>
 #include <math.h>
